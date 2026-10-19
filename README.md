@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Godfrey Mwanache! 👋
 
-<!--
-**Godfrey-Mwanache/Godfrey-Mwanache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+ - 💻 I am currently building software tools.
+ - 💬 Ask me about tech, coding, or collaboration.
+ - 📫 How to reach me: godfrey1.mw@gmail.com
 
-Here are some ideas to get you started:
+### Tech Stack & Skills
+- **Languages:** HTML, CSS, JavaScript, Python, C++, C#, Java
+- **Tools & Platforms:** Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+
+### GitHub Stats
+![Godfrey's GitHub stats](https://vercel.app)
